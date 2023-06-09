@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 Red
 Blue
@@ -6,7 +6,9 @@ Green
 Orange
 Yellow
 Indigo
+Unicorn
 
 
 Color of the rainbow
 Violet I dont know
+and Heres a Unicorn.
